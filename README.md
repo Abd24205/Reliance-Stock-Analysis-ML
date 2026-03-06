@@ -38,6 +38,7 @@ Price vs. Moving Averages (Trend)
 Daily Trading Volume (Liquidity)
 
 Actual vs. Predicted Price (ML Evaluation)
+![Project Chart](chart.png)
 
 📂 How to Run
 Clone the repository: git clone https://github.com/yourusername/reliance-stock-analysis.git
