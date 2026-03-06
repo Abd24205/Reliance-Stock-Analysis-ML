@@ -1,4 +1,5 @@
 Reliance Industries Stock Analysis & Price Prediction
+
 📌 Project Overview
 This project performs a comprehensive Data Science analysis on Reliance Industries (RELIANCE.NS) historical stock data (2020-2024). It covers the entire pipeline: from data extraction and cleaning to technical analysis and predictive modeling using Machine Learning.
 
